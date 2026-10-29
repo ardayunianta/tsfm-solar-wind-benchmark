@@ -1,0 +1,167 @@
+tech,model,series_months,collapsed,months
+solar,pga_chronos-bolt-base_365d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_365d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_365d_d2_s1,132,0,
+solar,pga_chronos-bolt-base_365d_d2_s2,132,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Antwerp_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Antwerp_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Antwerp_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Antwerp_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Brussels_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Brussels_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Brussels_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Brussels_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-East-Flanders_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-East-Flanders_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-East-Flanders_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-East-Flanders_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Flemish-Brabant_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Flemish-Brabant_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Flemish-Brabant_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Flemish-Brabant_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Hainaut_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Hainaut_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Hainaut_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Hainaut_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Limburg_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Limburg_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Limburg_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Limburg_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Liège_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Liège_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Liège_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Liège_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Luxembourg_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Luxembourg_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Luxembourg_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Luxembourg_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Namur_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Namur_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Namur_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Namur_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Walloon-Brabant_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Walloon-Brabant_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Walloon-Brabant_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-Walloon-Brabant_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-West-Flanders_ens,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-West-Flanders_s0,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-West-Flanders_s1,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_lo-West-Flanders_s2,12,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_s1,132,0,
+solar,pga_chronos-bolt-base_multi_365d_d2_s2,132,0,
+solar,pga_chronos-bolt-base_multi_roll14d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_multi_roll14d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_multi_roll14d_d2_s1,132,55,2025-11 2025-12 2026-01 2026-02 2026-03
+solar,pga_chronos-bolt-base_multi_roll14d_d2_s2,132,11,2025-12
+solar,pga_chronos-bolt-base_multi_roll30d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_multi_roll30d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_multi_roll30d_d2_s1,132,44,2025-11 2025-12 2026-01 2026-02
+solar,pga_chronos-bolt-base_multi_roll30d_d2_s2,132,0,
+solar,pga_chronos-bolt-base_multi_roll7d_d2_ens,132,11,2025-12
+solar,pga_chronos-bolt-base_multi_roll7d_d2_s0,132,11,2025-12
+solar,pga_chronos-bolt-base_multi_roll7d_d2_s1,132,33,2025-12 2026-02 2026-03
+solar,pga_chronos-bolt-base_multi_roll7d_d2_s2,132,22,2025-12 2026-02
+solar,pga_chronos-bolt-base_multi_roll90d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_multi_roll90d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_multi_roll90d_d2_s1,132,33,2026-01 2026-02 2026-03
+solar,pga_chronos-bolt-base_multi_roll90d_d2_s2,132,0,
+solar,pga_chronos-bolt-base_nophys_multi_365d_d2_ens,132,0,
+solar,pga_chronos-bolt-base_nophys_multi_365d_d2_s0,132,0,
+solar,pga_chronos-bolt-base_nophys_multi_365d_d2_s1,132,0,
+solar,pga_chronos-bolt-base_nophys_multi_365d_d2_s2,132,0,
+solar,pga_elia_365d_d2_ens,132,0,
+solar,pga_elia_365d_d2_s0,132,0,
+solar,pga_elia_365d_d2_s1,132,0,
+solar,pga_elia_365d_d2_s2,132,0,
+solar,pga_elia_multi_365d_d2_ens,132,0,
+solar,pga_elia_multi_365d_d2_s0,132,0,
+solar,pga_elia_multi_365d_d2_s0_aci,132,0,
+solar,pga_elia_multi_365d_d2_s1,132,0,
+solar,pga_elia_multi_365d_d2_s2,132,0,
+solar,pga_none_365d_d2_ens,132,0,
+solar,pga_none_365d_d2_s0,132,0,
+solar,pga_none_365d_d2_s1,132,0,
+solar,pga_none_365d_d2_s2,132,0,
+solar,pga_none_multi_365d_d2_ens,132,0,
+solar,pga_none_multi_365d_d2_s0,132,0,
+solar,pga_none_multi_365d_d2_s1,132,0,
+solar,pga_none_multi_365d_d2_s2,132,0,
+solar,pga_none_multi_roll14d_d2_ens,132,0,
+solar,pga_none_multi_roll14d_d2_s0,132,11,2025-12
+solar,pga_none_multi_roll14d_d2_s1,132,0,
+solar,pga_none_multi_roll14d_d2_s2,132,22,2025-12 2026-02
+solar,pga_none_multi_roll30d_d2_ens,132,0,
+solar,pga_none_multi_roll30d_d2_s0,132,11,2026-01
+solar,pga_none_multi_roll30d_d2_s1,132,11,2026-01
+solar,pga_none_multi_roll30d_d2_s2,132,22,2025-12 2026-02
+solar,pga_none_multi_roll7d_d2_ens,132,11,2025-12
+solar,pga_none_multi_roll7d_d2_s0,132,22,2025-12 2026-02
+solar,pga_none_multi_roll7d_d2_s1,132,11,2025-12
+solar,pga_none_multi_roll7d_d2_s2,132,33,2025-11 2025-12 2026-02
+solar,pga_none_multi_roll90d_d2_ens,132,0,
+solar,pga_none_multi_roll90d_d2_s0,132,0,
+solar,pga_none_multi_roll90d_d2_s1,132,0,
+solar,pga_none_multi_roll90d_d2_s2,132,11,2026-01
+wind,pga_chronos-bolt-base_365d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_365d_d2_s0,60,0,
+wind,pga_chronos-bolt-base_365d_d2_s1,60,0,
+wind,pga_chronos-bolt-base_365d_d2_s2,60,0,
+wind,pga_chronos-bolt-base_multi_365d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_multi_365d_d2_s0,60,0,
+wind,pga_chronos-bolt-base_multi_365d_d2_s1,60,0,
+wind,pga_chronos-bolt-base_multi_365d_d2_s2,60,0,
+wind,pga_chronos-bolt-base_multi_roll14d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_multi_roll14d_d2_s0,60,10,2026-05 2026-09
+wind,pga_chronos-bolt-base_multi_roll14d_d2_s1,60,13,2026-05 2026-08 2026-09
+wind,pga_chronos-bolt-base_multi_roll14d_d2_s2,60,9,2026-06 2026-08
+wind,pga_chronos-bolt-base_multi_roll30d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_multi_roll30d_d2_s0,60,0,
+wind,pga_chronos-bolt-base_multi_roll30d_d2_s1,60,0,
+wind,pga_chronos-bolt-base_multi_roll30d_d2_s2,60,0,
+wind,pga_chronos-bolt-base_multi_roll7d_d2_ens,60,10,2026-05 2026-08
+wind,pga_chronos-bolt-base_multi_roll7d_d2_s0,60,14,2026-05 2026-08 2026-09
+wind,pga_chronos-bolt-base_multi_roll7d_d2_s1,60,20,2026-05 2026-06 2026-07 2026-08
+wind,pga_chronos-bolt-base_multi_roll7d_d2_s2,60,15,2026-05 2026-06 2026-08
+wind,pga_chronos-bolt-base_multi_roll90d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_multi_roll90d_d2_s0,60,0,
+wind,pga_chronos-bolt-base_multi_roll90d_d2_s1,60,0,
+wind,pga_chronos-bolt-base_multi_roll90d_d2_s2,60,0,
+wind,pga_chronos-bolt-base_nophys_multi_365d_d2_ens,60,0,
+wind,pga_chronos-bolt-base_nophys_multi_365d_d2_s0,60,0,
+wind,pga_chronos-bolt-base_nophys_multi_365d_d2_s1,60,0,
+wind,pga_chronos-bolt-base_nophys_multi_365d_d2_s2,60,0,
+wind,pga_elia_365d_d2_ens,60,0,
+wind,pga_elia_365d_d2_s0,60,0,
+wind,pga_elia_365d_d2_s1,60,0,
+wind,pga_elia_365d_d2_s2,60,0,
+wind,pga_elia_multi_365d_d2_ens,60,0,
+wind,pga_elia_multi_365d_d2_s0,60,0,
+wind,pga_elia_multi_365d_d2_s0_aci,60,0,
+wind,pga_elia_multi_365d_d2_s1,60,0,
+wind,pga_elia_multi_365d_d2_s2,60,0,
+wind,pga_none_365d_d2_ens,60,0,
+wind,pga_none_365d_d2_s0,60,0,
+wind,pga_none_365d_d2_s1,60,0,
+wind,pga_none_365d_d2_s2,60,0,
+wind,pga_none_multi_365d_d2_ens,60,0,
+wind,pga_none_multi_365d_d2_s0,60,0,
+wind,pga_none_multi_365d_d2_s1,60,0,
+wind,pga_none_multi_365d_d2_s2,60,0,
+wind,pga_none_multi_roll14d_d2_ens,60,4,2026-05
+wind,pga_none_multi_roll14d_d2_s0,60,14,2026-05 2026-08 2026-09
+wind,pga_none_multi_roll14d_d2_s1,60,10,2026-05 2026-08
+wind,pga_none_multi_roll14d_d2_s2,60,10,2026-05 2026-09
+wind,pga_none_multi_roll30d_d2_ens,60,0,
+wind,pga_none_multi_roll30d_d2_s0,60,0,
+wind,pga_none_multi_roll30d_d2_s1,60,0,
+wind,pga_none_multi_roll30d_d2_s2,60,0,
+wind,pga_none_multi_roll7d_d2_ens,60,8,2026-05 2026-08
+wind,pga_none_multi_roll7d_d2_s0,60,10,2026-05 2026-08
+wind,pga_none_multi_roll7d_d2_s1,60,9,2026-05 2026-08
+wind,pga_none_multi_roll7d_d2_s2,60,15,2026-05 2026-08 2026-09
+wind,pga_none_multi_roll90d_d2_ens,60,0,
+wind,pga_none_multi_roll90d_d2_s0,60,0,
+wind,pga_none_multi_roll90d_d2_s1,60,0,
+wind,pga_none_multi_roll90d_d2_s2,60,0,

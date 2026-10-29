@@ -1,0 +1,17 @@
+{
+ "tech": "solar",
+ "backbone": "none",
+ "train_days": 14,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 0,
+ "epochs": 300,
+ "multi": true,
+ "holdout": null,
+ "best_epoch": 20,
+ "best_val_pinball": 0.015281885862350464,
+ "train_seconds": 4.59411883354187,
+ "infer_seconds": 0.34979796409606934,
+ "n_params": 113294,
+ "device": "mps"
+}

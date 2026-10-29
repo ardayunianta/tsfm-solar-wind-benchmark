@@ -1,0 +1,42 @@
+tech,key,step,seconds,counted,device,file
+wind,lgbElia,train + forecast,81.3,True,CPU,lightgbm_multi_elia
+wind,nhits,train + forecast,130.2,True,CPU,nf_nhits_multi_in1d
+wind,tide,train + forecast,2043.6,True,CPU,nf_tide_multi
+wind,tft,train + forecast,1077.8,True,GPU (MPS),nf_tft_multi
+wind,lstm,train + forecast,519.9,True,GPU (MPS),nf_lstm_multi
+wind,pgaNone,train + forecast,116.0,True,GPU (MPS),pga_none_multi_365d_d2_ens
+wind,pgaNone,PG-Adapter training (own clock),112.2,False,GPU (MPS),pga_none_multi_365d_d2_ens
+wind,pgaNone,PG-Adapter test forecast (own clock),0.2,False,GPU (MPS),pga_none_multi_365d_d2_ens
+wind,pgaBolt,prior on all days,444.9,True,GPU (MPS),pga_chronos-bolt-base_multi_365d_d2_ens
+wind,pgaBolt,train + forecast,84.6,True,GPU (MPS),pga_chronos-bolt-base_multi_365d_d2_ens
+wind,pgaBolt,PG-Adapter training (own clock),81.1,False,GPU (MPS),pga_chronos-bolt-base_multi_365d_d2_ens
+wind,pgaBolt,PG-Adapter test forecast (own clock),0.2,False,GPU (MPS),pga_chronos-bolt-base_multi_365d_d2_ens
+wind,pgaElia,train + forecast,71.3,True,GPU (MPS),pga_elia_multi_365d_d2_ens
+wind,pgaElia,PG-Adapter training (own clock),68.3,False,GPU (MPS),pga_elia_multi_365d_d2_ens
+wind,pgaElia,PG-Adapter test forecast (own clock),0.2,False,GPU (MPS),pga_elia_multi_365d_d2_ens
+wind,c2,forecast,41.9,True,GPU (MPS),zs_chronos-2_ctx28d
+wind,c2cov,forecast,836.9,True,GPU (MPS),zs_chronos-2-cov_multi_ctx28d
+wind,c2covElia,forecast,487.3,True,GPU (MPS),zs_chronos-2-cov-elia_ctx28d
+wind,tfm,export windows,1.7,True,CPU,zs_timesfm-2.5_ctx28d
+wind,tfm,predict,147.1,True,CPU,zs_timesfm-2.5_ctx28d
+wind,tfm,collect,0.8,True,CPU,zs_timesfm-2.5_ctx28d
+wind,moirai,export windows,1.1,True,CPU,zs_moirai-2.0_ctx28d
+wind,moirai,predict,304.2,True,CPU,zs_moirai-2.0_ctx28d
+wind,moirai,collect,0.8,True,CPU,zs_moirai-2.0_ctx28d
+wind,tfmcov,export windows,25.4,True,CPU,zs_timesfm-2.5-cov_multi_ctx28d
+wind,tfmcov,predict,158.0,True,CPU,zs_timesfm-2.5-cov_multi_ctx28d
+wind,tfmcov,collect,0.8,True,CPU,zs_timesfm-2.5-cov_multi_ctx28d
+wind,tfm3cov,export windows,24.8,True,GPU (MPS),zs_timesfm-3.0-cov_multi_ctx28d
+wind,tfm3cov,predict,1919.5,True,GPU (MPS),zs_timesfm-3.0-cov_multi_ctx28d
+wind,tfm3cov,collect,1.0,True,GPU (MPS),zs_timesfm-3.0-cov_multi_ctx28d
+wind,c2ft,fine-tune + validation forecast,2560.9,False,GPU (MPS),ft_chronos-2-cov_multi_ctx7d_lora_lr0.0003_s0
+wind,c2ft,test forecast,232.2,True,GPU (MPS),ft_chronos-2-cov_multi_ctx7d_lora_lr0.0003_s0
+wind,c2ft,fine-tuning (train_info.json),2436.0,True,GPU (MPS),ft_chronos-2-cov_multi_ctx7d_lora_lr0.0003_s0
+wind,c2ftElia,fine-tune + validation forecast,14935.9,False,GPU (MPS),ft_chronos-2-cov-elia_ctx28d_lora_lr0.0001_s0
+wind,c2ftElia,test forecast,485.7,True,GPU (MPS),ft_chronos-2-cov-elia_ctx28d_lora_lr0.0001_s0
+wind,c2ftElia,fine-tuning (train_info.json),14310.0,True,GPU (MPS),ft_chronos-2-cov-elia_ctx28d_lora_lr0.0001_s0
+wind,lgb,train + forecast,83.8,True,CPU,lightgbm_multi
+wind,bolt,forecast,133.2,True,GPU (MPS),zs_chronos-bolt-base
+wind,tirex,export windows,1.7,True,GPU (MPS),zs_tirex_ctx28d
+wind,tirex,predict,76.1,True,GPU (MPS),zs_tirex_ctx28d
+wind,tirex,collect,0.8,True,GPU (MPS),zs_tirex_ctx28d

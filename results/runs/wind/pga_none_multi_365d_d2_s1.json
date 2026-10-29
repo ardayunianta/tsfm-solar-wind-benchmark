@@ -1,0 +1,20 @@
+{
+ "tech": "wind",
+ "backbone": "none",
+ "train_days": 365,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 1,
+ "epochs": 300,
+ "multi": true,
+ "holdout": null,
+ "rolling": false,
+ "dev": false,
+ "clipped_loss": false,
+ "best_epoch": 50,
+ "best_val_pinball": 0.017338130080594066,
+ "train_seconds": 209.13533401489258,
+ "infer_seconds": 0.4849510192871094,
+ "n_params": 113304,
+ "device": "mps"
+}

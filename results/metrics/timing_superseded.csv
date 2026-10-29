@@ -1,0 +1,6 @@
+tech,key,step,seconds,counted,device,file
+wind,lgb,train + forecast,85.8,True,CPU,lightgbm_multi
+wind,bolt,forecast,391.1,True,GPU (MPS),zs_chronos-bolt-base
+wind,tirex,export windows,1.2,True,GPU (MPS),zs_tirex_ctx28d
+wind,tirex,predict,75.4,True,GPU (MPS),zs_tirex_ctx28d
+wind,tirex,collect,0.8,True,GPU (MPS),zs_tirex_ctx28d

@@ -1,0 +1,20 @@
+{
+ "tech": "wind",
+ "backbone": "elia",
+ "train_days": 365,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 1,
+ "epochs": 300,
+ "multi": false,
+ "holdout": null,
+ "rolling": false,
+ "dev": false,
+ "clipped_loss": false,
+ "best_epoch": 38,
+ "best_val_pinball": 0.014803227052458973,
+ "train_seconds": 205.37121295928955,
+ "infer_seconds": 0.45599889755249023,
+ "n_params": 112600,
+ "device": "mps"
+}

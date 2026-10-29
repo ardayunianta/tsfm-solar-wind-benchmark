@@ -1,0 +1,17 @@
+{
+ "tech": "solar",
+ "backbone": "chronos-bolt-base",
+ "train_days": 365,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 2,
+ "epochs": 300,
+ "multi": true,
+ "holdout": "Limburg",
+ "best_epoch": 22,
+ "best_val_pinball": 0.008956457354901918,
+ "train_seconds": 274.3146171569824,
+ "infer_seconds": 0.11502814292907715,
+ "n_params": 113998,
+ "device": "mps"
+}

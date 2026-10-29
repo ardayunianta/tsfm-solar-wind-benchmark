@@ -1,0 +1,80 @@
+{
+ "tech": "solar",
+ "backbone": "none",
+ "train_days": 7,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 1,
+ "epochs": 300,
+ "multi": true,
+ "holdout": null,
+ "rolling": true,
+ "dev": true,
+ "unclipped_loss": true,
+ "months": [
+  {
+   "month": "2024-10",
+   "best_epoch": 95,
+   "best_val_pinball": 0.013817857950925827
+  },
+  {
+   "month": "2024-11",
+   "best_epoch": 14,
+   "best_val_pinball": 0.008772001601755619
+  },
+  {
+   "month": "2024-12",
+   "best_epoch": 168,
+   "best_val_pinball": 0.006472008302807808
+  },
+  {
+   "month": "2025-01",
+   "best_epoch": 16,
+   "best_val_pinball": 0.0036108053755015135
+  },
+  {
+   "month": "2025-02",
+   "best_epoch": 169,
+   "best_val_pinball": 0.00423878850415349
+  },
+  {
+   "month": "2025-03",
+   "best_epoch": 102,
+   "best_val_pinball": 0.005893522873520851
+  },
+  {
+   "month": "2025-04",
+   "best_epoch": 20,
+   "best_val_pinball": 0.013299633748829365
+  },
+  {
+   "month": "2025-05",
+   "best_epoch": 87,
+   "best_val_pinball": 0.007125942502170801
+  },
+  {
+   "month": "2025-06",
+   "best_epoch": 142,
+   "best_val_pinball": 0.009563134051859379
+  },
+  {
+   "month": "2025-07",
+   "best_epoch": 198,
+   "best_val_pinball": 0.007834701798856258
+  },
+  {
+   "month": "2025-08",
+   "best_epoch": 104,
+   "best_val_pinball": 0.010112747550010681
+  },
+  {
+   "month": "2025-09",
+   "best_epoch": 15,
+   "best_val_pinball": 0.012845159508287907
+  }
+ ],
+ "train_seconds": 185.30152916908264,
+ "infer_seconds": 1.2913944721221924,
+ "n_params": 113294,
+ "device": "mps"
+}

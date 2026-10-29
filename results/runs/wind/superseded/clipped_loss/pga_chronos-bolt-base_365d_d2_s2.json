@@ -1,0 +1,17 @@
+{
+ "tech": "wind",
+ "backbone": "chronos-bolt-base",
+ "train_days": 365,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 2,
+ "epochs": 300,
+ "multi": false,
+ "holdout": null,
+ "best_epoch": 56,
+ "best_val_pinball": 0.019161932383119407,
+ "train_seconds": 160.10255432128906,
+ "infer_seconds": 0.22150683403015137,
+ "n_params": 113112,
+ "device": "mps"
+}

@@ -1,0 +1,17 @@
+# Python 3.11 (conda env "pgtsfm"). Versions pinned after the first successful install.
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+statsmodels
+lightgbm
+pvlib
+requests
+tqdm
+pyyaml
+matplotlib
+torch
+chronos-forecasting>=2.3
+peft>=0.21  # LoRA fine-tuning of Chronos-2 (15_finetune_chronos2.py)
+neuralforecast>=3.3

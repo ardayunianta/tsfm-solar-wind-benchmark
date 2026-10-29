@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Time-series foundation models for day-ahead solar and wind power forecasting: a benchmark against Elia"
+authors:
+  - family-names: Yunianta
+    given-names: Arda
+    affiliation: "Faculty of Computing and Information Technology, King Abdulaziz University"
+    orcid: "https://orcid.org/0000-0002-4732-1026"
+license: MIT
+repository-code: "https://github.com/ardayunianta/tsfm-solar-wind-benchmark"
+keywords:
+  - time-series foundation models
+  - solar power forecasting
+  - wind power forecasting
+  - probabilistic forecasting
+  - benchmark

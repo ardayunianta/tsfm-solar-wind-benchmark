@@ -1,0 +1,20 @@
+# Downloaded and processed data: scripts 01-03 rebuild them from the public sources
+data/
+
+# Large outputs (forecasts, models, priors, caches; about 19 GB). The metric tables and run records are kept,
+# so every number in the paper can be checked without rerunning the experiments.
+results/*
+!results/metrics/
+!results/runs/
+
+logs/
+
+# The manuscript stays private until it is accepted; step 14 still writes its tables and macros here
+paper/
+
+# Private notes
+docs/journal-candidates.md
+
+.DS_Store
+__pycache__/
+*.pyc

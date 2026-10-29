@@ -1,0 +1,17 @@
+{
+ "tech": "solar",
+ "backbone": "chronos-bolt-base",
+ "train_days": 90,
+ "no_physics": false,
+ "lag": "d2",
+ "seed": 0,
+ "epochs": 300,
+ "multi": true,
+ "holdout": null,
+ "best_epoch": 10,
+ "best_val_pinball": 0.011817540973424911,
+ "train_seconds": 14.660206079483032,
+ "infer_seconds": 0.38358020782470703,
+ "n_params": 113998,
+ "device": "mps"
+}
